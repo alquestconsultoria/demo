@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_message">New Message</string>
+    <string name="generic_failure">Connection failed</string>
+    <string name="positive_action">OK</string>
+    <string name="sending">Sending...</string>
+    <string name="failed">failed</string>
+    <string name="alquest_logo">Alquest</string>
+    <string name="login_bg">Alquest</string>
+    <string name="invalidusername">Invalid Username and/or Password</string>
+</resources>
